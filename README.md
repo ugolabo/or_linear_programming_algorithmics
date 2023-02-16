@@ -1,6 +1,6 @@
-# Operational Research, Linear Programming, and Algorithmics
+# Programmation linéaire, recherche opérationnelle et algorithmique 
 
-Operational research, linear programming, and algorithmics
+
 
 |  |  |
 |--|--|
