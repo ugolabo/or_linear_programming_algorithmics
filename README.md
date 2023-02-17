@@ -8,9 +8,9 @@ decorators.jpg
 
 - Programmation défensive et plus: employer les conventions et les bonnes pratiques avec les PEP et `pylint`; gérer les erreurs, les exceptions (`try`); aborder des patrons de conception, le débogueur `pdp`, le typage et `mypy`
 
-pep8.jpg
-pylint.jpg
-mypy.jpg
+|   |   |   |
+|:---|:---|:---|
+| <img src="img/pep8.jpg" alt="" width="200"> | <img src="img/pylint.jpg" alt="" width="200">  | <img src="img/mypy.jpg" alt="" width="200">  |
 
 - Programmation orientée objet et plus: employer les classes, les classes abstraites (`from abc import ABC`, `abstractmethod`), l'héritage, les itérateurs, la surcharge pour redéfinir une méthode dans une sous-classe ou faire du polymorphisme sur différents types, les constructeurs, les instances, les attributs et méthodes de classe, les attributs et méthodes d'instance, les variables et constantes de classe et d'instance; documenter le code source avec les *docstring*; gérer des paquets de fichiers
 
@@ -28,12 +28,12 @@ astar2.jpg
 
 - Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder la programmation mixte avec `mip`
 
-projet f
+PuLP: faisabilité
 
 faisabilite.jpg
 faisabilite2.jpg
 max.jpg
 
-projet sad
+PuLP: sac à dos
 
 knapsack.jpg
