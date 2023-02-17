@@ -10,13 +10,13 @@ decorators.jpg
 
 |   |   |   |
 |:---|:---|:---|
-| <img src="img/pep8.jpg" alt="" width="250"> | <img src="img/pylint.jpg" alt="" width="250">  | <img src="img/mypy.jpg" alt="" width="250">  |
+| <img src="img/pep8.jpg" alt="" width="300"> | <img src="img/pylint.jpg" alt="" width="300">  | <img src="img/mypy.jpg" alt="" width="300">  |
 
 - Programmation orientée objet et plus: employer les classes, les classes abstraites (`from abc import ABC`, `abstractmethod`), l'héritage, les itérateurs, la surcharge pour redéfinir une méthode dans une sous-classe ou faire du polymorphisme sur différents types, les constructeurs, les instances, les attributs et méthodes de classe, les attributs et méthodes d'instance, les variables et constantes de classe et d'instance; documenter le code source avec les *docstring*; gérer des paquets de fichiers
 
 |   |   |   |
 |:---|:---|:---|
-| <img src="img/oop.jpg" alt="" width="250"> | <img src="img/oop2.jpg" alt="" width="250">  | <img src="img/package.jpg" alt="" width="250">  |
+| <img src="img/oop.jpg" alt="" width="300"> | <img src="img/oop2.jpg" alt="" width="300">  | <img src="img/package.jpg" alt="" width="300">  |
 
 - Algorithmique: employer des notions tirées d’Artificial Intelligence, A Modern Approach, Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*), les algorithmes gloutons; solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats
 
