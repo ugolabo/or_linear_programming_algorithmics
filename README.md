@@ -13,10 +13,14 @@
 
 - Algorithmique: employer des notions tirées d’Artificial Intelligence, A Modern Approach, Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*), les algorithmes gloutons; solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats
 
+aima.jpg
+astar.jpg
+astar2.jpg
 
 - Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder la programmation mixte avec `mip`
 
-zones
 projet f
+
+faisabilite.jpg
 
 projet sad
