@@ -10,7 +10,7 @@ decorators.jpg
 
 |   |   |   |
 |:---|:---|:---|
-| <img src="img/pep8.jpg" alt="" width="200"> | <img src="img/pylint.jpg" alt="" width="200">  | <img src="img/mypy.jpg" alt="" width="200">  |
+| <img src="img/pep8.jpg" alt="" width="250"> | <img src="img/pylint.jpg" alt="" width="250">  | <img src="img/mypy.jpg" alt="" width="250">  |
 
 - Programmation orientée objet et plus: employer les classes, les classes abstraites (`from abc import ABC`, `abstractmethod`), l'héritage, les itérateurs, la surcharge pour redéfinir une méthode dans une sous-classe ou faire du polymorphisme sur différents types, les constructeurs, les instances, les attributs et méthodes de classe, les attributs et méthodes d'instance, les variables et constantes de classe et d'instance; documenter le code source avec les *docstring*; gérer des paquets de fichiers
 
