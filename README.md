@@ -22,7 +22,7 @@ decorators.jpg
 
 |   |   |   |
 |:---|:---|:---|
-| <img src="img/aima.jpg" alt="" width="300"> | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
+| <img src="img/aima.jpg" alt="" width="250"> | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
 | <img src="img/astar.jpg" alt="" width="300"> | <img src="img/astar2.jpg" alt="" width="300">  |   |
 
 - Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder la programmation mixte avec `mip`
