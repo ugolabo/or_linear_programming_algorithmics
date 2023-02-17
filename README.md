@@ -18,14 +18,14 @@ decorators.jpg
 |:---|:---|:---|
 | <img src="img/oop.jpg" alt="" width="300"> | <img src="img/oop2.jpg" alt="" width="300">  | <img src="img/package.jpg" alt="" width="300">  |
 
-- Algorithmique: employer des notions tirées d’Artificial Intelligence, A Modern Approach, Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*), les algorithmes gloutons; solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats
+- Algorithmique: employer des notions tirées d’Artificial Intelligence, A Modern Approach, Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*)
 
 |   |   |   |
 |:---|:---|:---|
 | <img src="img/aima.jpg" alt="" width="250"> | <img src="img/astar2.jpg" alt="" width="300">  | <img src="img/astar.jpg" alt="" width="300">  |
 |   | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
 
-- Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder la programmation mixte avec `mip`
+- Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder les lgorithmes gloutons, solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats, aborder la programmation mixte avec `mip`
 
   - PuLP: faisabilité
   - PuLP: sac à dos
