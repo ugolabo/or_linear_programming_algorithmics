@@ -28,11 +28,9 @@ decorators.jpg
 - Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder la programmation mixte avec `mip`
 
   - PuLP: faisabilité
+  - PuLP: sac à dos
 
 |   |   |   |
 |:---|:---|:---|
 | <img src="img/faisabilite.jpg" alt="" width="300"> | <img src="img/faisabilite2.jpg" alt="" width="300">  | <img src="img/max.jpg" alt="" width="300">  |
-
-  - PuLP: sac à dos
-
-<img src="img/knapsack.jpg" alt="" width="300">
+| <img src="img/knapsack.jpg" alt="" width="300">  |   |   |
