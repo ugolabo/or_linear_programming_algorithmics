@@ -29,10 +29,10 @@ decorators.jpg
 
 PuLP: faisabilité
 
-faisabilite.jpg
-faisabilite2.jpg
-max.jpg
+|   |   |   |
+|:---|:---|:---|
+| <img src="img/faisabilite.jpg" alt="" width="300"> | <img src="img/faisabilite2.jpg" alt="" width="300">  | <img src="img/max.jpg" alt="" width="300">  |
 
 PuLP: sac à dos
 
-knapsack.jpg
+<img src="img/knapsack.jpg" alt="" width="300">
