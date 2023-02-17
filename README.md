@@ -4,7 +4,7 @@
 
 - Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; utiliser des modules standards comme `itertools`, `random`, `os`, `sys`, `time`, `datetime`, des modules scientifiques comme `numpy`, `pandas`, `matplotlib`; déployer des environnements virtuels, élaborer des fichiers de déploiement `requirements.txt` avec `pipreqs`
 
-decorators.jpg
+<img src="img/decorators.jpg" alt="" width="300">
 
 - Programmation défensive et plus: employer les conventions et les bonnes pratiques avec les PEP et `pylint`; gérer les erreurs, les exceptions (`try`); aborder des patrons de conception, le débogueur `pdp`, le typage et `mypy`
 
