@@ -29,8 +29,10 @@
 
 5. Programmation linéaire et plus: utiliser `pulp` pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder les lgorithmes gloutons, solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats, aborder la programmation mixte avec `mip`
 
-  - PuLP: faisabilité
-  - PuLP: sac à dos
+## Cas PuLP
+
+1. PuLP: faisabilité
+2. PuLP: sac à dos
 
 |   |   |   |
 |:---|:---|:---|
