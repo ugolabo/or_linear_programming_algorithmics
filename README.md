@@ -1,6 +1,6 @@
 # Programmation linéaire, recherche opérationnelle et algorithmique 
 
-**Objectif:** maitriser les fondements de la programmation fonctionnelle en Python, de la programmation défensive, de la programmation orientée objet, de l'algorithmique, de la programmation linéaire et aborder la programmation mixte.
+**Objectif:** maitriser les fondements de la programmation fonctionnelle en Python, de la programmation défensive, de la programmation orientée objet, de l'algorithmique, de la programmation linéaire et aborder la programmation linéaire mixte.
 
 [Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire à la toute fin.
 
