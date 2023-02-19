@@ -2,7 +2,9 @@
 
 **Objectif:** maitriser les fondements de la programmation fonctionnelle en Python, de la programmation défensive, de la programmation orientée objet, de l'algorithmique, de la programmation linéaire et aborder la programmation mixte.
 
-[Cas](#cas-pulp)
+[Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire à la toute fin.
+
+??changer: cas de programmation mixte où les tests
 
 1. Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; utiliser des modules standards comme `itertools`, `random`, `os`, `sys`, `time`, `datetime`, des modules scientifiques comme `numpy`, `pandas`, `matplotlib`; déployer des environnements virtuels, élaborer des fichiers de déploiement `requirements.txt` avec `pipreqs`
 
