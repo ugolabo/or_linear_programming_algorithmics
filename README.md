@@ -22,7 +22,7 @@
 |:---|:---|:---|
 | <img src="img/oop.jpg" alt="" width="300"> | <img src="img/oop2.jpg" alt="" width="300">  | <img src="img/package.jpg" alt="" width="300">  |
 
-4. Algorithmique et structures: employer des notions tirées d'*Artificial Intelligence, A Modern Approach*, par Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*)
+4. Algorithmique et structures linéaires: employer des notions tirées d'*Artificial Intelligence, A Modern Approach*, par Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*)
 
 |   |   |   |
 |:---|:---|:---|
