@@ -4,8 +4,6 @@
 
 [Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire à la toute fin.
 
-??changer: cas de programmation mixte où les tests
-
 1. Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; déployer des environnements virtuels, élaborer des fichiers de déploiement requirements.txt
 
 |    |
