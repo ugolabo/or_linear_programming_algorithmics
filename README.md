@@ -24,8 +24,8 @@
 
 4. Algorithmique et structures linéaires: employer des notions tirées d'*Artificial Intelligence, A Modern Approach*, par Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les structures linéaires comme une pile (*stack*), une file (*queue*)
 
-|   |   |   |
-|:---|:---|:---|
+|   |   |
+|:---|:---|
 | <img src="img/aima.jpg" alt="" width="250"> | <img src="img/astar.jpg" alt="" width="300">  |
 | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
 
