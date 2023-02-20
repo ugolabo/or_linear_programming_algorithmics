@@ -2,7 +2,7 @@
 
 **Objectif:** maitriser les fondements de la programmation fonctionnelle en Python, de la programmation défensive, de la programmation orientée objet, de l'algorithmique, de la programmation linéaire et aborder la programmation linéaire mixte.
 
-[Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire à la toute fin.
+[Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire avec PuLP à la toute fin.
 
 1. Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; déployer des environnements virtuels, élaborer des fichiers de déploiement requirements.txt
 
@@ -31,7 +31,7 @@
 
 5. Programmation linéaire et plus: utiliser PuLP pour solutionner des problèmes de planification, de production, de transport, pour maximiser les profits ou minimiser les coûts, déterminer les variables décisionnelles, les fonctions objectives avec différents types de frontières, les contraintes, utiliser différents algorithmes de solution, visualiser les zones de faisabilité; travailler avec des listes, des dictionnaires ou des DataFrames Pandas; aborder les lgorithmes gloutons, solutionner des problèmes classiques comme celui du sac à dos (*knapsack problem*) avec différentes approches pour changer résultats, aborder la programmation mixte avec Python-MIP
 
-## Cas de figure avec PuLP
+## Cas de figure en programmation linéaire avec PuLP
 
 1. PuLP: faisabilité
 2. PuLP: sac à dos
