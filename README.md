@@ -10,7 +10,7 @@
 |:---|
 | <img src="img/decorators.jpg" alt="" width="300"> |
 
-2. Programmation défensive et plus: employer les conventions et les bonnes pratiques avec les PEP et `pylint`; gérer les erreurs, les exceptions; aborder des patrons de conception, le débogueur Pdb, le typage et MyPy
+2. Programmation défensive et plus: employer les conventions et les bonnes pratiques avec les PEP et `pylint`; gérer les erreurs, les exceptions; aborder des patrons de conception, le débogueur Pdb, le typage et Mypy
 
 |   |   |   |
 |:---|:---|:---|
