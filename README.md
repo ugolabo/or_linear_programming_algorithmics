@@ -4,7 +4,7 @@
 
 [Cas de figure](#cas-de-figure-avec-pulp) en programmation linéaire avec PuLP à la toute fin.
 
-1. Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; déployer des environnements virtuels, élaborer des fichiers de déploiement requirements.txt
+1. Programmation fonctionnelle et plus: employer les fonctions, les décorateurs pour modifier temporairement une fonction avec une autre fonction; déployer des environnements virtuels, élaborer un projet ou un paquet avec des fichiers de déploiement (requirements.txt entre autres)
 
 |    |
 |:---|
@@ -22,7 +22,7 @@
 |:---|:---|:---|
 | <img src="img/oop.jpg" alt="" width="300"> | <img src="img/oop2.jpg" alt="" width="300">  | <img src="img/package.jpg" alt="" width="300">  |
 
-4. Algorithmique et structures linéaires: employer des notions tirées d'*Artificial Intelligence, A Modern Approach*, par Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation
+4. Algorithmique et structures linéaires: employer des notions tirées d'*Artificial Intelligence, A Modern Approach*, par Stuart Russell et Peter Norvig; employer A* en Python 2.7 format portable; aborder la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation; travailler avec des piles et des files avec des fonctions récursives et des décorateurs
 
 |   |   |   |
 |:---|:---|:---|
